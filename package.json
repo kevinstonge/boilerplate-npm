@@ -1,9 +1,17 @@
 {
-	"author": "Kevin StOnge",
 	"name": "fcc-learn-npm-package-json",
-	"version": "1.001",
+	"author": "Kevin StOnge",
+	"description": "freecodecamp backend lessons",
+	"keywords": [
+		"freecodecamp",
+		"backend",
+		"node"
+	],
+	"license": "none",
+	"version": "1.0.1",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.17.1",
+		"moment": "^2.26.0"
 	},
 	"main": "server.js",
 	"scripts": {
