@@ -1,6 +1,7 @@
 {
 	"author": "Kevin StOnge",
 	"name": "fcc-learn-npm-package-json",
+	"version": "1.001",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
